@@ -1,0 +1,14 @@
+C:\Users\whyba\Dev\DiceLab\obj\Debug\net6.0\DiceLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whyba\Dev\DiceLab\obj\Debug\net6.0\DiceLab.AssemblyInfoInputs.cache
+C:\Users\whyba\Dev\DiceLab\obj\Debug\net6.0\DiceLab.AssemblyInfo.cs
+C:\Users\whyba\Dev\DiceLab\obj\Debug\net6.0\DiceLab.csproj.CoreCompileInputs.cache
+C:\Users\whyba\Dev\DiceLab\bin\Debug\net6.0\DiceLab.exe
+C:\Users\whyba\Dev\DiceLab\bin\Debug\net6.0\DiceLab.deps.json
+C:\Users\whyba\Dev\DiceLab\bin\Debug\net6.0\DiceLab.runtimeconfig.json
+C:\Users\whyba\Dev\DiceLab\bin\Debug\net6.0\DiceLab.dll
+C:\Users\whyba\Dev\DiceLab\bin\Debug\net6.0\DiceLab.pdb
+C:\Users\whyba\Dev\DiceLab\obj\Debug\net6.0\DiceLab.dll
+C:\Users\whyba\Dev\DiceLab\obj\Debug\net6.0\refint\DiceLab.dll
+C:\Users\whyba\Dev\DiceLab\obj\Debug\net6.0\DiceLab.pdb
+C:\Users\whyba\Dev\DiceLab\obj\Debug\net6.0\DiceLab.genruntimeconfig.cache
+C:\Users\whyba\Dev\DiceLab\obj\Debug\net6.0\ref\DiceLab.dll
